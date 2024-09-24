@@ -4,3 +4,4 @@ This page contains information about the dataset, web service, and web page crea
 - The web service was developed using the Flask web framework in Python:
 - The web interface was developed using the Angular web framework:
   ![Alt text](images/figure2.pdf)
+  ![Alt text](images/figure2.pdf?raw=true "Title")
