@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: "Kurt"
+    given-names: "Mehmet Salih"
+    affiliation: "Department of Computer Engineering, Hakkari University Faculty of Engineering, Hakkari, Türkiye"
+    orcid: "https://orcid.org/0000-0002-0345-4599"
+  - family-names: "Yücel"
+    given-names: "Eylem"
+    affiliation: "Department of Computer Engineering, İstanbul University-Cerrahpaşa Faculty of Engineering, İstanbul, Türkiye"
+    orcid: "https://orcid.org/0000-0003-1979-8860"
+title: "TOLID: Turkish Offensive Language Identification Dataset and Transformer-Based Benchmarks"
+journal: "Electrica"
+volume: 26
+number: "0404"
+year: 2026
+doi: "10.5152/electrica.2026.25404"
+url: "https://github.com/drsalihkurt/TurkishOffensiveLanguageDetection"
+license: "CC-BY-NC-4.0"
+date-released: "2026-07-24"
